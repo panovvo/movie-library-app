@@ -1,10 +1,10 @@
 # CineVault – Filmová knihovna s integrací Supabase API
 ## Technická dokumentace a návrh webové aplikace
 
-**Autor:** [Doplňte Vaše Jméno]  
-**Třída:** [Doplňte Třídu, např. 4.A]  
-**Předmět:** Vývoj webových aplikací / Maturitní projekt  
-**Vyučující:** [Doplňte Jméno Vyučujícího]  
+**Autoři:** Volodymyr Panovyk, Oleksandr Bukrieiev  
+**Třída:** I3C  
+**Předmět:** Tvorba webových aplikací  
+**Vyučující:** Sergey Kuroedov  
 **Školní rok:** 2025/2026  
 
 ---
